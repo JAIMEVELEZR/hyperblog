@@ -1,2 +1,4 @@
 hola atodos como estan
 vamos estudiando un poco
+estamos aprendiendo mucho con platzi
+vamos a cambiar el archivo para ver nuevos commit
