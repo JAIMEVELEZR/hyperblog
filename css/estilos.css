@@ -1,0 +1,28 @@
+/* Archivo: css/estilos.css */
+
+body {
+    background-color: lightgray; /* Hace que todo el fondo sea gris claro */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Arial", sans-serif; /* Aplica la fuente Arial a todo el cuerpo */
+}
+
+.marco {
+    border: 5px solid black; /* Añade un borde negro de 5px alrededor del contenedor */
+    padding: 20px; /* Añade espacio interno al contenedor */
+    background-color: white; /* Color de fondo blanco para el contenido */
+    width: 80%; /* Ancho del 80% de la ventana */
+    max-width: 1200px; /* Máximo ancho de 1200px */
+    text-align: center; /* Centra el texto dentro del contenedor */
+}
+
+h1, p {
+    color: deeppink; /* Establece el color del texto en deep pink */
+    border: 2px solid black; /* Añade un borde negro de 2px */
+    padding: 10px; /* Añade espacio interno */
+    display: inline-block; /* Permite que los elementos ocupen solo el espacio necesario */
+    margin: 10px auto; /* Centra los elementos horizontalmente */
+}
