@@ -1,3 +1,6 @@
+[B[B[B[A[A
+[Bhola addicion mas inormación [D[D[D[D[D[D[D[D[Df[C[C[C[C[C[D[D[D[D[D[C[C[C[C[C[C[C
+$ cat > vacio.txt
 hola atodos como estan
 vamos estudiando un poco
 estamos aprendiendo mucho con platzi
